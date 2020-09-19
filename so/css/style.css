@@ -70,7 +70,7 @@ a {
     width: 480px;
     height: 120px;
     margin: 20px auto;
-    background: url(.../zplogo.png) no-repeat center/cover;
+    background: url(../../zplogo.png) no-repeat center/cover;
 }
 
 .con .shlogo a {
